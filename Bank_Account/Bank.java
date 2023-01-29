@@ -16,19 +16,19 @@ public class Bank {
 		deposit(initialBalance);
 	}
 
-	public String getNome() {
+	public String getName() {
 		return name;
 	}
 
-	public void setNome(String nome) {
-		this.name = nome;
+	public void setNome(String name) {
+		this.name = name;
 	}
 
 	public int getNum_conta() {
 		return num_account;
 	}
 
-	public double getSaldo() {
+	public double getBalanceo() {
 		return balance;
 	}
 
