@@ -1,0 +1,1 @@
+Excercise usuing Exeception
