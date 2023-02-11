@@ -1,1 +1,1 @@
-Creating a simple social media just to understand the 
+Creating a simple social media just to understand the inheritance concept
